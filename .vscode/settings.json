@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Zompi.sln"
+    "dotnet.defaultSolution": "Unity-Training-Zombie-Toys.sln"
 }
